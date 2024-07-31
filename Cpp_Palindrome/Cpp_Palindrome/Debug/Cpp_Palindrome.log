@@ -1,0 +1,4 @@
+﻿  Cpp_Palindrome.cpp
+D:\__PROGRAMMING\Cpp_Palindrome\Cpp_Palindrome\Cpp_Palindrome\Cpp_Palindrome.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+D:\__PROGRAMMING\Cpp_Palindrome\Cpp_Palindrome\Cpp_Palindrome\Cpp_Palindrome.cpp(32): warning C4715: 'isPalindrome': not all control paths return a value
+  Cpp_Palindrome.vcxproj -> D:\__PROGRAMMING\Cpp_Palindrome\Cpp_Palindrome\Debug\Cpp_Palindrome.exe
